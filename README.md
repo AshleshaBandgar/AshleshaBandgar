@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashlesha Bandgar</h1>
-<h3 align="center">Salesforce Developer | Java Developer | Full Stack Enthusiast</h3>
+<h3 align="center">| Salesforce Developer |</h3>
 
 <p align="center">
 I'm passionate about building enterprise applications using Salesforce, Java, and modern web technologies.
@@ -14,7 +14,7 @@ I enjoy solving real-world business problems through automation, scalable archit
 
 * 👨‍💻 Check out my repositories here: **https://github.com/AshleshaBandgar**
 
-* 💬 Ask me about **Salesforce, Apex, LWC, Flow Builder, Java, SQL, JavaScript, React**
+* 💬 Ask me about **Salesforce, Apex, LWC, Flow Builder, Java, MySQL, JavaScript**
 
 * 📫 Reach me at **[ashlesha.bandgar29@gmail.com](mailto:ashlesha.bandgar29@gmail.com)**
 
@@ -73,10 +73,6 @@ Enterprise Salesforce application featuring:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
